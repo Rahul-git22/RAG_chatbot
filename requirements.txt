@@ -1,0 +1,8 @@
+langchain-community
+langchain
+faiss-cpu
+unstructured
+unstructured[pdf]
+PyPDF2
+transformers
+sentence-transformers
