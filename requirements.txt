@@ -1,0 +1,11 @@
+langchain_groq
+pypdf
+docx2txt
+langchain-community
+langchain-pinecone
+sentence-transformers
+pinecone
+streamlit
+python-dotenv
+transformers==4.50.1
+numpy
