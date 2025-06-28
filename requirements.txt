@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-core
+pypdf
+docx2txt
+faiss-cpu
+rank_bm25
+sentence-transformers
+python-dotenv
+transformers==4.50.1
